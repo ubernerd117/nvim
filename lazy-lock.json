@@ -1,6 +1,4 @@
 {
-  "catppuccin": { "branch": "main", "commit": "a0c769bc7cd04bbbf258b3d5f01e2bdce744108d" },
-  "everforest": { "branch": "master", "commit": "c4bb2ae687ae21938775f436cf213492702a0cf3" },
   "harpoon": { "branch": "harpoon2", "commit": "ed1f853847ffd04b2b61c314865665e1dadf22c7" },
   "lazy.nvim": { "branch": "main", "commit": "6c3bda4aca61a13a9c63f1c1d1b16b9d3be90d7a" },
   "mason-lspconfig.nvim": { "branch": "main", "commit": "bef29b653ba71d442816bf56286c2a686210be04" },
@@ -10,6 +8,7 @@
   "nvim-treesitter": { "branch": "master", "commit": "42fc28ba918343ebfd5565147a42a26580579482" },
   "nvim-ts-autotag": { "branch": "main", "commit": "a1d526af391f6aebb25a8795cbc05351ed3620b5" },
   "plenary.nvim": { "branch": "master", "commit": "857c5ac632080dba10aae49dba902ce3abf91b35" },
+  "telescope-ui-select.nvim": { "branch": "master", "commit": "6e51d7da30bd139a6950adf2a47fda6df9fa06d2" },
   "telescope.nvim": { "branch": "master", "commit": "a0bbec21143c7bc5f8bb02e0005fa0b982edc026" },
   "undotree": { "branch": "master", "commit": "b951b87b46c34356d44aa71886aecf9dd7f5788a" }
 }
